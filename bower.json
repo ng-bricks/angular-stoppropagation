@@ -1,0 +1,23 @@
+{
+  "name": "ng-stoppropagation",
+  "version": "0.0.8",
+  "authors": [
+    "antonello.pasella@gmail.com"
+  ],
+  "description": "",
+  "main": "dist/ng-stoppropagation.js",
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.2.26",
+    "angular-sanitize": "~1.2.26",
+    "angular-mocks": "~1.2.26"
+  }
+}
