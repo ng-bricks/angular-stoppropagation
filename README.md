@@ -1,13 +1,13 @@
 # ng-stoppropagation
 
-Directive to block event propagation (aka \"bubbling\") from the current element to his ancestors
+Directive to block event propagation (aka "bubbling") from the current element to his ancestors
 
 ### Installation
 
 Install via bower
 
 ```shell
-bower install ng-stoppropagation
+bower install --save ng-stoppropagation
 ```
 
 ### Usage
